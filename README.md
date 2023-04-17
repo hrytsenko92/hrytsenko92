@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @hrytsenko92
+- 👋 Hi, I’m Mykola
 - 👀 I’m interested in JavaScript, React
-- 🌱 I’m currently learning TypeScript
-
+- 🌱 I’m currently learning TypeScript and React Native
