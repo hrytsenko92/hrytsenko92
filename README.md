@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mykola
 - 👀 I’m interested in JavaScript, TypeScript, React
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NodeJS, Express
